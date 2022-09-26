@@ -87,8 +87,12 @@ body
 .project_h2{
     font-size: 45px;
 }
-
-
+#member__top{
+    margin-bottom: 120px;
+}
+.pricing{
+    margin-top: 50px;
+}
 
 
 
