@@ -1,0 +1,105 @@
+html
+{
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    color: #212529;
+    background-color: white;
+}
+.hero-copy{
+    color: #8A94A7;
+}
+.round{
+    background-color: #0376E2;
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+    margin: 0 auto;
+    position: relative;
+}
+.img_profile{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+.hero-paragraph{
+    line-height: 35px;
+}
+.infor{
+    
+    color: white;
+    margin-top: 25px;
+}
+.infor h3{
+    font-weight: 700;
+    font-size: 1.7rem;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.infor p:first-of-type{
+    margin-bottom: 25px;
+
+}
+.infor i{
+    border: 1.5px solid rgba(255, 255, 255, 0.5);
+    font-size: 15px;
+    text-align: center;
+    width: 37px;
+    height: 37px;
+    line-height: 37px;
+    margin: 5px;
+}
+.infor i:hover{
+    cursor: pointer;
+    border: 1.5px solid white;
+    color: white;
+    transition: .5s;
+}
+.infor__lite{
+    margin-left: 106px;
+}
+.placeholder{
+    cursor: auto;
+}
+.more{
+    color: #0d6efd;
+    cursor: pointer;
+    font-size: 15px;
+}
+.more:hover{
+    color: #0d91fd;
+    transition: .5s;
+}
+#more__content{
+    display: none;
+    list-style-type: none;
+}
+.pricing-table-features li::before{
+    margin-right: 20px;
+}
+.project_h2{
+    font-size: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
